@@ -98987,9 +98987,6 @@ D01255C4 1023
 #Spirit 150
 D0137A66 1440
 80137A64 0001
-#All units 15 modifiable weapons
-5300503C 0000
-31102F9E 001E
 #Unit full mod (disables revive, turn off in battle)
 5000503C 0000
 80102F9A FFFE
